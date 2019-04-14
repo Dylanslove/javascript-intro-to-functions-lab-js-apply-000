@@ -1,2 +1,4 @@
-s  return String.toUppercase()
+function shout(string) {
+return string.toUppercase()
+  
 }
